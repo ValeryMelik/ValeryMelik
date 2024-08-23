@@ -21,6 +21,7 @@
 - **Pug**: Использование **Pug** для упрощения написания HTML-шаблонов и повышения читаемости кода.
 - **Webpack**: Настройка и оптимизация сборщика **Webpack** для управления модулями и плагинами.
 - **Vite**: Опыт работы с **Vite** как альтернативой **Webpack** для быстрой и эффективной сборки и разработки.
+- **Gulp**: Работа с автоматизацией задач сборки фронтенда, включая компиляцию, минификацию и запуск серверов разработки.
 - **Git**: Хорошее владение **Git** для управления версиями кода и работы в команде, преимущественно через командную строку.
 
 <p align="left">
@@ -33,6 +34,7 @@
     <a href="https://angular.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/angularjs-colored.svg" width="36" height="36" alt="Angular" /></a>    
     <a href="https://webpack.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/webpack-colored.svg" width="36" height="36" alt="Webpack" /></a>
     <a href="https://vitejs.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg" width="36" height="36" alt="Vite" /></a>
+    <a href="https://gulpjs.com" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=gulp" width="36" height="36" alt="Gulp" /></a>
     <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
     <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" /></a>
     <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
@@ -62,9 +64,9 @@
 
 <p align="left">
     <a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" /></a>
-    <a href="https://www.microsoft.com" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=windows" width="36" height="36" alt="Windows" /></a>
-    <a href="https://www.microsoft.com" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=powershell" width="36" height="36" alt="powershell" /></a>
     <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/gnubash.svg" width="36" height="36" alt="GNU Bash" /></a>
+    <a href="https://www.microsoft.com" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=windows" width="36" height="36" alt="Windows" /></a>
+    <a href="https://learn.microsoft.com/en-us/powershell/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=powershell" width="36" height="36" alt="powershell" /></a>
     <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
     <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
 </p>
